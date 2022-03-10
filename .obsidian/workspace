@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chapter_1.1.md.md",
+            "file": "readme.md",
             "mode": "source"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chapter_1.1.md.md",
+            "file": "chapter_1.1.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapter_1.1.md.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,9 +99,9 @@
   },
   "active": "1c40c899e1196128",
   "lastOpenFiles": [
-    "chapter_1.1.md.md",
-    "readme.md.md",
-    "chapter_1.2.md.md",
-    "chapter_1.3.md.md"
+    "readme.md",
+    "chapter_1.3.md",
+    "chapter_1.2.md",
+    "chapter_1.1.md"
   ]
 }

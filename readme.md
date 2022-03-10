@@ -1,5 +1,5 @@
 ## Outline
-
+s
 #### 1. Typescript
 
 - 1.1 Fundamentals
